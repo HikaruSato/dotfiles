@@ -1,1 +1,3 @@
 # dotfiles
+
+path: $HOME/dotfiles
